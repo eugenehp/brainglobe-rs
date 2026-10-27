@@ -1,0 +1,113 @@
+{
+ "cases": [
+  {
+   "path": "<TMP>/.config/brainglobe/bg_config.conf",
+   "default": "[default_dirs]\nbrainglobe_dir = <TMP>/.brainglobe\ninterm_download_dir = <TMP>/.brainglobe\n\n",
+   "dir": "<TMP>/.brainglobe",
+   "show": "[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/.brainglobe\n\tinterm_download_dir: <TMP>/.brainglobe\n\n",
+   "set_bad": "False\n/no/such/parent/x is not a valid path. Path must be a valid path string, and its parent must exist!\n",
+   "set_ok": "True\n[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/elsewhere\n\tinterm_download_dir: <TMP>/.brainglobe\n\n",
+   "set_other": "True\n[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/elsewhere\n\tinterm_download_dir: relative\n\n",
+   "set_nokey": "[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/elsewhere\n\tinterm_download_dir: relative\n\n",
+   "after": "[default_dirs]\nbrainglobe_dir = <TMP>/elsewhere\ninterm_download_dir = relative\n\n",
+   "mode": "home"
+  },
+  {
+   "path": "<TMP>/cfg/bg_config.conf",
+   "default": "[default_dirs]\nbrainglobe_dir = <TMP>/.brainglobe\ninterm_download_dir = <TMP>/.brainglobe\n\n",
+   "dir": "<TMP>/.brainglobe",
+   "show": "[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/.brainglobe\n\tinterm_download_dir: <TMP>/.brainglobe\n\n",
+   "set_bad": "False\n/no/such/parent/x is not a valid path. Path must be a valid path string, and its parent must exist!\n",
+   "set_ok": "True\n[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/elsewhere\n\tinterm_download_dir: <TMP>/.brainglobe\n\n",
+   "set_other": "True\n[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/elsewhere\n\tinterm_download_dir: relative\n\n",
+   "set_nokey": "[DEFAULT]\n[default_dirs]\n\tbrainglobe_dir: <TMP>/elsewhere\n\tinterm_download_dir: relative\n\n",
+   "after": "[default_dirs]\nbrainglobe_dir = <TMP>/elsewhere\ninterm_download_dir = relative\n\n",
+   "mode": "env"
+  }
+ ],
+ "ini": [
+  {
+   "in": "[a]\nX = 1\ny: two\n\n[b]\nlong = line one\n  line two\n\n# c\n; d\nz=\n",
+   "items": [
+    [
+     "DEFAULT",
+     []
+    ],
+    [
+     "a",
+     [
+      [
+       "x",
+       "1"
+      ],
+      [
+       "y",
+       "two"
+      ]
+     ]
+    ],
+    [
+     "b",
+     [
+      [
+       "long",
+       "line one\nline two"
+      ],
+      [
+       "z",
+       ""
+      ]
+     ]
+    ]
+   ],
+   "written": "[a]\nx = 1\ny = two\n\n[b]\nlong = line one\n\tline two\nz = \n\n"
+  },
+  {
+   "in": "[DEFAULT]\nd = 1\n[s]\nk = v\n",
+   "items": [
+    [
+     "DEFAULT",
+     [
+      [
+       "d",
+       "1"
+      ]
+     ]
+    ],
+    [
+     "s",
+     [
+      [
+       "k",
+       "v"
+      ],
+      [
+       "d",
+       "1"
+      ]
+     ]
+    ]
+   ],
+   "written": "[DEFAULT]\nd = 1\n\n[s]\nk = v\n\n"
+  },
+  {
+   "in": "[atlases]\nallen_mouse_25um = 3.1\n",
+   "items": [
+    [
+     "DEFAULT",
+     []
+    ],
+    [
+     "atlases",
+     [
+      [
+       "allen_mouse_25um",
+       "3.1"
+      ]
+     ]
+    ]
+   ],
+   "written": "[atlases]\nallen_mouse_25um = 3.1\n\n"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "allen-adult-mouse-ccf-space",
+    "version": "2015",
+    "location": "/coordinate-spaces/allen-adult-mouse-ccf-space/2015",
+    "template": {
+        "name": "allen-adult-mouse-stpt-template",
+        "version": "2015",
+        "location": "/templates/allen-adult-mouse-stpt-template/2015"
+    }
+}

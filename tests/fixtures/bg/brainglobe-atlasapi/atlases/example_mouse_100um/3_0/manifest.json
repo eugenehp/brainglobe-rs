@@ -1,0 +1,57 @@
+{
+    "name": "example_mouse",
+    "location": "/atlases/example_mouse_100um/3_0",
+    "citation": "Wang et al 2020, https://doi.org/10.1016/j.cell.2020.04.007",
+    "atlas_link": "http://www.brain-map.org",
+    "species": "Mus musculus",
+    "symmetric": true,
+    "resolution": [
+        100.0,
+        100.0,
+        100.0
+    ],
+    "orientation": "asr",
+    "version": "3.0",
+    "shape": [
+        132,
+        80,
+        114
+    ],
+    "additional_references": [],
+    "atlas_packager": null,
+    "coordinate_space": {
+        "name": "allen-adult-mouse-ccf-space",
+        "version": "2015",
+        "location": "/coordinate-spaces/allen-adult-mouse-ccf-space/2015",
+        "template": {
+            "name": "allen-adult-mouse-stpt-template",
+            "version": "2015",
+            "location": "/templates/allen-adult-mouse-stpt-template/2015"
+        }
+    },
+    "terminology": {
+        "name": "example_mouse-terminology",
+        "version": "3.0",
+        "location": "/terminologies/example_mouse-terminology/3_0"
+    },
+    "annotation_set": {
+        "name": "example_mouse-annotation",
+        "version": "3.0",
+        "location": "/annotation-sets/example_mouse-annotation/3_0",
+        "template": {
+            "name": "allen-adult-mouse-stpt-template",
+            "version": "2015",
+            "location": "/templates/allen-adult-mouse-stpt-template/2015"
+        },
+        "terminology": {
+            "name": "example_mouse-terminology",
+            "version": "3.0",
+            "location": "/terminologies/example_mouse-terminology/3_0"
+        }
+    },
+    "template": {
+        "name": "allen-adult-mouse-stpt-template",
+        "version": "2015",
+        "location": "/templates/allen-adult-mouse-stpt-template/2015"
+    }
+}

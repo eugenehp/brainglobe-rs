@@ -1,0 +1,79 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+env:
+  CARGO_TERM_COLOR: always
+  # brainglobe-atlasapi commit the parity fixtures are generated with
+  BRAINGLOBE_ATLASAPI_REF: e0f50cf9e1c9f2ff50dd9d53cd60ca0f07332f98
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - run: cargo fmt --check
+      - run: cargo clippy --all-targets -- -D warnings
+      - run: cargo clippy --lib --no-default-features -- -D warnings
+      - run: cargo doc --no-deps
+        env:
+          RUSTDOCFLAGS: -D warnings
+
+  msrv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@1.91.0
+      - run: cargo check --lib --bins
+
+  wasm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+      - run: sudo apt-get update && sudo apt-get install -y clang llvm
+      - run: WASM_CLANG=clang WASM_AR=llvm-ar scripts/check-wasm.sh
+
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - run: cargo test --release --no-fail-fast
+      - run: cargo test --release --test remote -- --ignored
+
+  # Regenerate the Python fixtures with brainglobe-atlasapi and the pinned
+  # environment, then run the tests against them.
+  parity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: brainglobe/brainglobe-atlasapi
+          ref: ${{ env.BRAINGLOBE_ATLASAPI_REF }}
+          path: brainglobe-atlasapi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: dtolnay/rust-toolchain@stable
+      - name: Python environment
+        run: |
+          pip install -r scripts/requirements-parity.txt
+          pip install --no-deps ./brainglobe-atlasapi
+      - name: Fixtures
+        run: |
+          rm -rf tests/fixtures/bg tests/fixtures/parity
+          cd "$RUNNER_TEMP" && python -I "$GITHUB_WORKSPACE/scripts/gen_parity_fixtures.py" --out "$GITHUB_WORKSPACE/tests/fixtures"
+      - run: cargo test --release --no-fail-fast

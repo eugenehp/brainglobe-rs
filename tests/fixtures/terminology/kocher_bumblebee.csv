@@ -1,0 +1,11 @@
+identifier,parent_identifier,annotation_value,name,abbreviation,color_hex_triplet,root_identifier_path
+0,,0,root,root,#FFFFFF,[0]
+1,0,1,Fan Shaped Body,1,#FF6464,"[0, 1]"
+2,0,2,Glomeruli,2,#64FF64,"[0, 2]"
+3,0,3,Calyx,3,#6464FF,"[0, 3]"
+4,0,4,Peduncle,4,#FFFF64,"[0, 4]"
+5,0,5,Medulla,5,#FF64FF,"[0, 5]"
+6,0,6,Lamina,6,#64FFFF,"[0, 6]"
+7,0,7,Lobula,7,#C89664,"[0, 7]"
+8,0,8,NA,8,#96C864,"[0, 8]"
+9,0,9,Ellipsoid Body,9,#6496C8,"[0, 9]"

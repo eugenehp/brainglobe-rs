@@ -1,0 +1,2991 @@
+{
+ "repr": [
+  {
+   "name": "admba_3d_e11_5_mouse_16um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_e11_5_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "16",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "admba_3d_e13_5_mouse_16um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_e13_5_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "16",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "admba_3d_e15_5_mouse_16um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_e15_5_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "16",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "admba_3d_e18_5_mouse_16um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_e18_5_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "16",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "admba_3d_p14_mouse_16.752um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_p14_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "16.752",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "admba_3d_p28_mouse_16.752um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_p28_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "16.752",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "admba_3d_p4_mouse_16.752um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_p4_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "16.752",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "admba_3d_p56_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "admba_3d_p56_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "african_molerat_20um",
+   "r": {
+    "ok": {
+     "name": "african_molerat",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_cord_20um",
+   "r": {
+    "ok": {
+     "name": "allen_cord",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_human_500um",
+   "r": {
+    "ok": {
+     "name": "allen_human",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "500",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_mouse_100um",
+   "r": {
+    "ok": {
+     "name": "allen_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "100",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_mouse_10um",
+   "r": {
+    "ok": {
+     "name": "allen_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "allen_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_mouse_50um",
+   "r": {
+    "ok": {
+     "name": "allen_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_mouse_bluebrain_barrels_10um",
+   "r": {
+    "ok": {
+     "name": "allen_mouse_bluebrain_barrels",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_mouse_bluebrain_barrels_25um",
+   "r": {
+    "ok": {
+     "name": "allen_mouse_bluebrain_barrels",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "australian_mouse_15um",
+   "r": {
+    "ok": {
+     "name": "australian_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "15",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "azba_zfish_4um",
+   "r": {
+    "ok": {
+     "name": "azba_zfish",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "4",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "carea_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "carea_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "ccfv2_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "ccfv2_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "ccfv2_fiber_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "ccfv2_fiber_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "ccfv2_dev_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "ccfv2_dev_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "ccfv3augmented_mouse_10um",
+   "r": {
+    "ok": {
+     "name": "ccfv3augmented_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "ccfv3augmented_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "ccfv3augmented_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "columbia_cuttlefish_50um",
+   "r": {
+    "ok": {
+     "name": "columbia_cuttlefish",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "csl_cat_500um",
+   "r": {
+    "ok": {
+     "name": "csl_cat",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "500",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "danionella_cerebrum_mixed_2.5um",
+   "r": {
+    "ok": {
+     "name": "danionella_cerebrum_mixed",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "2.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p10_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p10",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p10_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p10",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p11_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p11",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p11_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p11",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p12_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p12",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p12_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p12",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p13_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p13",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p13_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p13",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p14_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p14",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p14_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p14",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p15_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p15",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p15_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p15",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p16_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p16",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p16_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p16",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p17_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p17",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p17_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p17",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p18_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p18",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p18_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p18",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p19_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p19",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p19_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p19",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p20_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p20",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p20_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p20",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p21_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p21",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p21_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p21",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p22_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p22",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p22_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p22",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p23_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p23",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p23_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p23",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p24_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p24",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p24_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p24",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p25_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p25",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p25_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p25",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p26_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p26",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p26_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p26",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p27_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p27",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p27_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p27",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p28_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p28",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p28_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p28",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p29_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p29",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p29_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p29",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p30_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p30",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p30_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p30",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p31_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p31",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p31_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p31",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p32_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p32",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p32_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p32",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p33_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p33",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p33_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p33",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p34_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p34",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p34_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p34",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p35_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p35",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p35_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p35",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p36_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p36",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p36_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p36",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p37_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p37",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p37_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p37",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p38_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p38",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p38_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p38",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p39_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p39",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p39_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p39",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p40_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p40",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p40_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p40",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p41_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p41",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p41_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p41",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p42_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p42",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p42_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p42",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p43_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p43",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p43_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p43",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p44_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p44",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p44_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p44",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p45_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p45",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p45_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p45",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p46_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p46",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p46_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p46",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p47_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p47",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p47_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p47",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p48_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p48",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p48_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p48",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p49_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p49",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p49_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p49",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p4_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p4",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p4_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p4",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p50_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p50",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p50_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p50",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p51_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p51",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p51_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p51",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p52_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p52",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p52_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p52",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p53_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p53",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p53_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p53",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p54_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p54",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p54_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p54",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p55_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p55",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p55_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p55",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p56_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p56",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p56_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p56",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p5_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p5",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p5_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p5",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p6_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p6",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p6_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p6",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p7_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p7",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p7_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p7",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p8_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p8",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p8_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p8",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p9_20um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p9",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "demba_allen_seg_dev_mouse_p9_25um",
+   "r": {
+    "ok": {
+     "name": "demba_allen_seg_dev_mouse_p9",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "dorr_mouse_mri_32um",
+   "r": {
+    "ok": {
+     "name": "dorr_mouse_mri",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "32",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_mouse_15um",
+   "r": {
+    "ok": {
+     "name": "duke_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "15",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "duke_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_mouse_50um",
+   "r": {
+    "ok": {
+     "name": "duke_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_mouse_75um",
+   "r": {
+    "ok": {
+     "name": "duke_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "75",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_mouse_100um",
+   "r": {
+    "ok": {
+     "name": "duke_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "100",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_mouse_150um",
+   "r": {
+    "ok": {
+     "name": "duke_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "150",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "drosophila_wingdisc_instar3_2um",
+   "r": {
+    "ok": {
+     "name": "drosophila_wingdisc_instar3",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "2",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p00_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p00",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p02_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p02",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p04_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p04",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p08_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p08",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p12_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p12",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p18_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p18",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p24_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p24",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p40_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p40",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "duke_dev_rat_p80_25um",
+   "r": {
+    "ok": {
+     "name": "duke_dev_rat_p80",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "eurasian_blackcap_25um",
+   "r": {
+    "ok": {
+     "name": "eurasian_blackcap",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "example_mouse_100um",
+   "r": {
+    "ok": {
+     "name": "example_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "100",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "hoops_tawny_dragon_50um",
+   "r": {
+    "ok": {
+     "name": "hoops_tawny_dragon",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e11-5_lsfm_20um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e11-5_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e11-5_mri-adc_31.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e11-5_mri-adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "31.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e11-5_mri-dwi_31.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e11-5_mri-dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "31.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e11-5_mri-fa_31.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e11-5_mri-fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "31.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e11-5_mri-t2_31.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e11-5_mri-t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "31.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e13-5_lsfm_20um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e13-5_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e13-5_mri-adc_34um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e13-5_mri-adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "34",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e13-5_mri-dwi_34um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e13-5_mri-dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "34",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e13-5_mri-fa_34um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e13-5_mri-fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "34",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e13-5_mri-t2_34um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e13-5_mri-t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "34",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e15-5_lsfm_20um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e15-5_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e15-5_mri-adc_37.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e15-5_mri-adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "37.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e15-5_mri-dwi_37.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e15-5_mri-dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "37.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e15-5_mri-fa_37.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e15-5_mri-fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "37.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e15-5_mri-mtr_37.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e15-5_mri-mtr",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "37.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e15-5_mri-t2_37.5um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e15-5_mri-t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "37.5",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e18-5_lsfm_20um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e18-5_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e18-5_mri-t2_40um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e18-5_mri-t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "40",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e18-5_mri-adc_40um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e18-5_mri-adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "40",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e18-5_mri-dwi_40um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e18-5_mri-dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "40",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_e18-5_mri-fa_40um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_e18-5_mri-fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "40",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_idisco_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_idisco",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_mri_a0_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_mri_a0",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_mri_adc_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_mri_adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_mri_dwi_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_mri_dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_mri_fa_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_mri_fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_mri_mtr_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_mri_mtr",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_mri_t2_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_mri_t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p04_lsfm_20um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p04_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p04_mri-adc_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p04_mri-adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p04_mri-dwi_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p04_mri-dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p04_mri-fa_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p04_mri-fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p04_mri-mtr_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p04_mri-mtr",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p04_mri-t2_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p04_mri-t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p14_lsfm_20um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p14_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p14_mri-adc_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p14_mri-adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p14_mri-dwi_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p14_mri-dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p14_mri-fa_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p14_mri-fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p14_mri-mtr_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p14_mri-mtr",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p14_mri-t2_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p14_mri-t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p56_lsfm_20um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p56_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p56_mri-adc_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p56_mri-adc",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p56_mri-dwi_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p56_mri-dwi",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p56_mri-fa_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p56_mri-fa",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_p56_mri-t2_50um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_p56_mri-t2",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_dev_mouse_stp_10um",
+   "r": {
+    "ok": {
+     "name": "kim_dev_mouse_stp",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_mouse_100um",
+   "r": {
+    "ok": {
+     "name": "kim_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "100",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_mouse_10um",
+   "r": {
+    "ok": {
+     "name": "kim_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "kim_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_mouse_50um",
+   "r": {
+    "ok": {
+     "name": "kim_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kim_mouse_isotropic_20um",
+   "r": {
+    "ok": {
+     "name": "kim_mouse_isotropic",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "kocher_bumblebee_2.542um",
+   "r": {
+    "ok": {
+     "name": "kocher_bumblebee",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "2.542",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "mpin_zfish_1um",
+   "r": {
+    "ok": {
+     "name": "mpin_zfish",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "1",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "nadkarni_mri_mouselemur_91um",
+   "r": {
+    "ok": {
+     "name": "nadkarni_mri_mouselemur",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "91",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "nmt_arm_asym_macaque_250um",
+   "r": {
+    "ok": {
+     "name": "nmt_arm_asym_macaque",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "250",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "nmt_arm_sym_macaque_250um",
+   "r": {
+    "ok": {
+     "name": "nmt_arm_sym_macaque",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "250",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "osten_mouse_100um",
+   "r": {
+    "ok": {
+     "name": "osten_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "100",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "osten_mouse_10um",
+   "r": {
+    "ok": {
+     "name": "osten_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "osten_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "osten_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "osten_mouse_50um",
+   "r": {
+    "ok": {
+     "name": "osten_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "perens_lsfm_mouse_20um",
+   "r": {
+    "ok": {
+     "name": "perens_lsfm_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "perens_multimodal_lsfm_25um",
+   "r": {
+    "ok": {
+     "name": "perens_multimodal_lsfm",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "perens_stereotaxic_mri_mouse_25um",
+   "r": {
+    "ok": {
+     "name": "perens_stereotaxic_mri_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "prairie_vole_25um",
+   "r": {
+    "ok": {
+     "name": "prairie_vole",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "princeton_mouse_20um",
+   "r": {
+    "ok": {
+     "name": "princeton_mouse",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "sju_cavefish_2um",
+   "r": {
+    "ok": {
+     "name": "sju_cavefish",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "2",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "swc_female_rat_50um",
+   "r": {
+    "ok": {
+     "name": "swc_female_rat",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "50",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "unam_axolotl_40um",
+   "r": {
+    "ok": {
+     "name": "unam_axolotl",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "40",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "vfb_jrc2018u_neuropils_fly_0.519um",
+   "r": {
+    "ok": {
+     "name": "vfb_jrc2018u_neuropils_fly",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "0.519",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "whs_sd_rat_39um",
+   "r": {
+    "ok": {
+     "name": "whs_sd_rat",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "39",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "whs_sd_swc_female_rat_39um",
+   "r": {
+    "ok": {
+     "name": "whs_sd_swc_female_rat",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "39",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "hoops_tawny_dragon_20um",
+   "r": {
+    "ok": {
+     "name": "hoops_tawny_dragon",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "20",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "allen_mouse_25um_v1.2",
+   "r": {
+    "ok": {
+     "name": "allen_mouse",
+     "major_vers": "1",
+     "minor_vers": "2",
+     "resolution": "25",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "x_10nm",
+   "r": {
+    "ok": {
+     "name": "x",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "10",
+     "unit": "nm"
+    }
+   }
+  },
+  {
+   "name": "x_1mm_v0.1",
+   "r": {
+    "ok": {
+     "name": "x",
+     "major_vers": "0",
+     "minor_vers": "1",
+     "resolution": "1",
+     "unit": "mm"
+    }
+   }
+  },
+  {
+   "name": "a_b",
+   "r": {
+    "err": {
+     "type": "ValueError",
+     "msg": "not enough values to unpack (expected 2, got 1)"
+    }
+   }
+  },
+  {
+   "name": "nounit",
+   "r": {
+    "err": {
+     "type": "IndexError",
+     "msg": "pop from empty list"
+    }
+   }
+  },
+  {
+   "name": "a_25um_v1",
+   "r": {
+    "err": {
+     "type": "ValueError",
+     "msg": "not enough values to unpack (expected 2, got 1)"
+    }
+   }
+  },
+  {
+   "name": "a_25um_v1.2.3",
+   "r": {
+    "err": {
+     "type": "ValueError",
+     "msg": "too many values to unpack (expected 2)"
+    }
+   }
+  },
+  {
+   "name": "_um",
+   "r": {
+    "ok": {
+     "name": "",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "",
+     "unit": "um"
+    }
+   }
+  },
+  {
+   "name": "a__b_3um",
+   "r": {
+    "ok": {
+     "name": "a__b",
+     "major_vers": null,
+     "minor_vers": null,
+     "resolution": "3",
+     "unit": "um"
+    }
+   }
+  }
+ ],
+ "from_repr": [
+  {
+   "args": [
+    "allen_mouse",
+    25
+   ],
+   "out": "allen_mouse_25um"
+  },
+  {
+   "args": [
+    "allen_mouse",
+    25,
+    1,
+    2
+   ],
+   "out": "allen_mouse_25um_v1.2"
+  },
+  {
+   "args": [
+    "x",
+    "1.5",
+    null,
+    null,
+    "mm"
+   ],
+   "out": "x_1.5mm"
+  },
+  {
+   "args": [
+    "x",
+    3,
+    0,
+    null
+   ],
+   "out": "x_3um_v0.None"
+  },
+  {
+   "args": [
+    "x",
+    3,
+    null,
+    7
+   ],
+   "out": "x_3um_vNone.7"
+  }
+ ],
+ "latest": [
+  {
+   "in": [
+    "3_0"
+   ],
+   "out": {
+    "ok": "3_0"
+   },
+   "sorted": [
+    "3_0"
+   ]
+  },
+  {
+   "in": [
+    "3_0",
+    "3_1",
+    "2_9"
+   ],
+   "out": {
+    "ok": "3_1"
+   },
+   "sorted": [
+    "3_1",
+    "3_0",
+    "2_9"
+   ]
+  },
+  {
+   "in": [
+    "10_0",
+    "9_9"
+   ],
+   "out": {
+    "ok": "10_0"
+   },
+   "sorted": [
+    "10_0",
+    "9_9"
+   ]
+  },
+  {
+   "in": [
+    "1",
+    "1_0",
+    "0_99"
+   ],
+   "out": {
+    "ok": "1_0"
+   },
+   "sorted": [
+    "1_0",
+    "1",
+    "0_99"
+   ]
+  },
+  {
+   "in": [
+    "3_0",
+    "3_0"
+   ],
+   "out": {
+    "ok": "3_0"
+   },
+   "sorted": [
+    "3_0",
+    "3_0"
+   ]
+  },
+  {
+   "in": [],
+   "out": {
+    "err": {
+     "type": "IndexError",
+     "msg": "list index out of range"
+    }
+   },
+   "sorted": []
+  },
+  {
+   "in": [
+    "a_1"
+   ],
+   "out": {
+    "err": {
+     "type": "ValueError",
+     "msg": "invalid literal for int() with base 10: 'a'"
+    }
+   },
+   "sorted": [
+    "a_1"
+   ]
+  },
+  {
+   "in": [
+    "1_x"
+   ],
+   "out": {
+    "err": {
+     "type": "ValueError",
+     "msg": "invalid literal for int() with base 10: 'x'"
+    }
+   },
+   "sorted": [
+    "1_x"
+   ]
+  },
+  {
+   "in": [
+    "01_2",
+    "1_10"
+   ],
+   "out": {
+    "ok": "1_10"
+   },
+   "sorted": [
+    "1_10",
+    "01_2"
+   ]
+  },
+  {
+   "in": [
+    " 2_1",
+    "2_1 "
+   ],
+   "out": {
+    "ok": " 2_1"
+   },
+   "sorted": [
+    " 2_1",
+    "2_1 "
+   ]
+  }
+ ]
+}

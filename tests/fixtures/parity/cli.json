@@ -1,0 +1,280 @@
+[
+ {
+  "args": [
+   "-h"
+  ],
+  "columns": 80,
+  "stdout": "Usage: brainglobe [OPTIONS] COMMAND\n\n  Command line dispatcher. Given a command line call to `brainglobe` it calls\n  the correct function, depending on which `command` was passed.\n\n  Parameters ---------- command : str     Name of the command:     - list:\n  list available atlases     - install: install new atlas     - update: update\n  an installed atlas     - config: modify config show : bool     If True when\n  using `list` shows the local path of installed     atlases and when using\n  'config' it prints the modify config results. atlas_name : str     Used with\n  `update` and `install`, name of the atlas to     install force : bool,\n  optional     Used with `update`. If True it forces the update.     Defaults\n  to False.\n\nOptions:\n  -s, --show\n  -a, --atlas_name TEXT\n  -f, --force\n  -k, --key TEXT\n  -v, --value TEXT\n  -h, --help             Show this message and exit.\n",
+  "stderr": "",
+  "code": 0
+ },
+ {
+  "args": [
+   "-h"
+  ],
+  "columns": 50,
+  "stdout": "Usage: brainglobe [OPTIONS] COMMAND\n\n  Command line dispatcher. Given a command line\n  call to `brainglobe` it calls the correct\n  function, depending on which `command` was\n  passed.\n\n  Parameters ---------- command : str     Name of\n  the command:     - list: list available atlases\n  - install: install new atlas     - update:\n  update an installed atlas     - config: modify\n  config show : bool     If True when using `list`\n  shows the local path of installed     atlases\n  and when using 'config' it prints the modify\n  config results. atlas_name : str     Used with\n  `update` and `install`, name of the atlas to\n  install force : bool, optional     Used with\n  `update`. If True it forces the update.\n  Defaults to False.\n\nOptions:\n  -s, --show\n  -a, --atlas_name TEXT\n  -f, --force\n  -k, --key TEXT\n  -v, --value TEXT\n  -h, --help             Show this message and\n                         exit.\n",
+  "stderr": "",
+  "code": 0
+ },
+ {
+  "args": [
+   "-h"
+  ],
+  "columns": 120,
+  "stdout": "Usage: brainglobe [OPTIONS] COMMAND\n\n  Command line dispatcher. Given a command line call to `brainglobe` it calls\n  the correct function, depending on which `command` was passed.\n\n  Parameters ---------- command : str     Name of the command:     - list:\n  list available atlases     - install: install new atlas     - update: update\n  an installed atlas     - config: modify config show : bool     If True when\n  using `list` shows the local path of installed     atlases and when using\n  'config' it prints the modify config results. atlas_name : str     Used with\n  `update` and `install`, name of the atlas to     install force : bool,\n  optional     Used with `update`. If True it forces the update.     Defaults\n  to False.\n\nOptions:\n  -s, --show\n  -a, --atlas_name TEXT\n  -f, --force\n  -k, --key TEXT\n  -v, --value TEXT\n  -h, --help             Show this message and exit.\n",
+  "stderr": "",
+  "code": 0
+ },
+ {
+  "args": [
+   "--help"
+  ],
+  "columns": 80,
+  "stdout": "Usage: brainglobe [OPTIONS] COMMAND\n\n  Command line dispatcher. Given a command line call to `brainglobe` it calls\n  the correct function, depending on which `command` was passed.\n\n  Parameters ---------- command : str     Name of the command:     - list:\n  list available atlases     - install: install new atlas     - update: update\n  an installed atlas     - config: modify config show : bool     If True when\n  using `list` shows the local path of installed     atlases and when using\n  'config' it prints the modify config results. atlas_name : str     Used with\n  `update` and `install`, name of the atlas to     install force : bool,\n  optional     Used with `update`. If True it forces the update.     Defaults\n  to False.\n\nOptions:\n  -s, --show\n  -a, --atlas_name TEXT\n  -f, --force\n  -k, --key TEXT\n  -v, --value TEXT\n  -h, --help             Show this message and exit.\n",
+  "stderr": "",
+  "code": 0
+ },
+ {
+  "args": [],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: Missing argument 'COMMAND'.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--sho"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '--sho'. Did you mean '--show'?\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "-x"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '-x'.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "list",
+   "extra"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: Got unexpected extra argument (extra)\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "-a"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Error: Option '-a' requires an argument.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "list",
+   "--atlas_name"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Error: Option '--atlas_name' requires an argument.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--atlas-name",
+   "x",
+   "list"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '--atlas-name'. Did you mean '--atlas_name'?\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--show=1",
+   "list"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Error: Option '--show' does not take a value.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "a",
+   "b",
+   "c"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: Got unexpected extra arguments (b c)\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--at",
+   "x"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '--at'.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "-sk"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Error: Option '-k' requires an argument.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "-fa"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Error: Option '-a' requires an argument.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "list",
+   "-h"
+  ],
+  "columns": 80,
+  "stdout": "Usage: brainglobe [OPTIONS] COMMAND\n\n  Command line dispatcher. Given a command line call to `brainglobe` it calls\n  the correct function, depending on which `command` was passed.\n\n  Parameters ---------- command : str     Name of the command:     - list:\n  list available atlases     - install: install new atlas     - update: update\n  an installed atlas     - config: modify config show : bool     If True when\n  using `list` shows the local path of installed     atlases and when using\n  'config' it prints the modify config results. atlas_name : str     Used with\n  `update` and `install`, name of the atlas to     install force : bool,\n  optional     Used with `update`. If True it forces the update.     Defaults\n  to False.\n\nOptions:\n  -s, --show\n  -a, --atlas_name TEXT\n  -f, --force\n  -k, --key TEXT\n  -v, --value TEXT\n  -h, --help             Show this message and exit.\n",
+  "stderr": "",
+  "code": 0
+ },
+ {
+  "args": [
+   "-x",
+   "-h"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '-x'.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "-h",
+   "-x"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '-x'.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: Missing argument 'COMMAND'.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--",
+   "-s"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "ValueError: Invalid command -s. use \"brainglobe -h for more info.\"\n",
+  "code": 1
+ },
+ {
+  "args": [
+   "--key"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Error: Option '--key' requires an argument.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--valu",
+   "3",
+   "x"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '--valu'. Did you mean '--value'?\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "--forc"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Usage: brainglobe [OPTIONS] COMMAND\nTry 'brainglobe --help' for help.\n\nError: No such option '--forc'. Did you mean '--force'?\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "-a",
+   "x",
+   "-a",
+   "y",
+   "bogus"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "ValueError: Invalid command bogus. use \"brainglobe -h for more info.\"\n",
+  "code": 1
+ },
+ {
+  "args": [
+   "config",
+   "--key"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "Error: Option '--key' requires an argument.\n",
+  "code": 2
+ },
+ {
+  "args": [
+   "bogus"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "ValueError: Invalid command bogus. use \"brainglobe -h for more info.\"\n",
+  "code": 1
+ },
+ {
+  "args": [
+   "install"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "ValueError: No atlas named passed with command \"install\". Use the \"-a\"                                argument to pass an atlas name\n",
+  "code": 1
+ },
+ {
+  "args": [
+   "update"
+  ],
+  "columns": 80,
+  "stdout": "",
+  "stderr": "ValueError: No atlas named passed with command \"update\". Use the \"-a\"                                argument to pass an atlas name\n",
+  "code": 1
+ }
+]

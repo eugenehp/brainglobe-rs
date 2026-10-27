@@ -1,0 +1,72 @@
+{
+    "attributes": {
+        "ome": {
+            "version": "0.5",
+            "multiscales": [
+                {
+                    "datasets": [
+                        {
+                            "path": "s0",
+                            "coordinateTransformations": [
+                                {
+                                    "type": "scale",
+                                    "scale": [
+                                        1.0,
+                                        0.1,
+                                        0.1,
+                                        0.1
+                                    ]
+                                },
+                                {
+                                    "type": "translation",
+                                    "translation": [
+                                        0.0,
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "/",
+                    "axes": [
+                        {
+                            "name": "c",
+                            "type": "channel"
+                        },
+                        {
+                            "name": "z",
+                            "type": "space",
+                            "unit": "millimeter",
+                            "orientation": {
+                                "type": "anatomical",
+                                "value": "anterior-to-posterior"
+                            }
+                        },
+                        {
+                            "name": "y",
+                            "type": "space",
+                            "unit": "millimeter",
+                            "orientation": {
+                                "type": "anatomical",
+                                "value": "superior-to-inferior"
+                            }
+                        },
+                        {
+                            "name": "x",
+                            "type": "space",
+                            "unit": "millimeter",
+                            "orientation": {
+                                "type": "anatomical",
+                                "value": "right-to-left"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "zarr_format": 3,
+    "node_type": "group"
+}

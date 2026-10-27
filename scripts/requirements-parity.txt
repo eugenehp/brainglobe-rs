@@ -1,0 +1,13 @@
+# The Python environment the parity fixtures are generated with (plus
+# brainglobe-atlasapi itself at commit e0f50cf, installed from a checkout).
+numpy==2.4.6
+pandas==3.1.0
+rich==15.0.0
+click==8.5.0
+treelib==1.8.0
+DracoPy==2.2.0
+meshio==5.3.5
+ngff-zarr==0.50.0
+zarr==3.4.1
+s3fs==2026.9.0
+brainglobe-space==1.0.4

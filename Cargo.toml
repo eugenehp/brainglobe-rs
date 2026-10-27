@@ -1,0 +1,66 @@
+[package]
+name = "brainglobe-atlasapi"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.91"
+description = "Read BrainGlobe atlases (the BrainGlobe Atlas API v3 format). A Rust port of brainglobe-atlasapi."
+license = "BSD-3-Clause"
+repository = "https://github.com/eugenehp/brainglobe-rs"
+homepage = "https://github.com/eugenehp/brainglobe-rs"
+documentation = "https://docs.rs/brainglobe-atlasapi"
+readme = "README.md"
+keywords = ["brainglobe", "atlas", "neuroanatomy", "ome-zarr", "neuroscience"]
+categories = ["science", "encoding", "command-line-utilities"]
+# the parity fixtures and their generators stay in the repository
+exclude = ["/tests", "/scripts", "/.claude", ".DS_Store"]
+
+[lib]
+name = "brainglobe_atlasapi"
+path = "src/lib.rs"
+
+[[bin]]
+name = "brainglobe"
+path = "src/main.rs"
+required-features = ["remote"]
+
+[features]
+default = ["remote"]
+# Download atlases from BrainGlobe's bucket over https (native only): the
+# `BrainGlobeAtlas` class, `list` / `install` / `update`, lazy chunk and mesh
+# downloads. Off, the crate reads atlases already on disk (or handed over as
+# bytes): what a wasm app embedding it as a reader needs.
+remote = ["zarr", "dep:reqwest", "ome-zarr/http"]
+# The atlas stacks (OME-Zarr, through ome-zarr-rs): `Atlas`. Off, the crate
+# is terminologies, structure trees and Draco meshes, from bytes: a small
+# wasm module without ome-zarr's C codecs.
+zarr = ["dep:ome-zarr", "dep:ndarray"]
+
+[dependencies]
+# OME-Zarr reading (templates, annotations, hemispheres, 4-D masks): the
+# BrainGlobe v3 stacks are OME-Zarr 0.5 multiscales
+ome-zarr = { version = "=0.1.0", default-features = false, optional = true }
+# the precomputed meshes are Draco; draco-core decodes them byte-for-byte as
+# DracoPy (Google's C++ decoder) does
+draco-core = { version = "2.3.2", default-features = false, features = ["decoder", "point_cloud_decode", "edgebreaker_valence_decode", "legacy_bitstream_decode"] }
+csv = "1.3"
+ndarray = { version = "0.17", optional = true }
+log = "0.4"
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order", "float_roundtrip"] }
+thiserror = "2"
+unicode-width = "0.2"
+
+[target.'cfg(not(target_arch = "wasm32"))'.dependencies]
+reqwest = { version = "0.12", optional = true, features = ["blocking"] }
+
+[target.'cfg(not(target_arch = "wasm32"))'.dev-dependencies]
+tempfile = "3"
+# drives ome-zarr's `settle` (a lazily fetched store) in tests/store.rs
+futures = { version = "0.3", default-features = false, features = ["executor"] }
+sha2 = "0.10"
+
+[profile.dev.package."*"]
+opt-level = 2
+
+[profile.test]
+opt-level = 1

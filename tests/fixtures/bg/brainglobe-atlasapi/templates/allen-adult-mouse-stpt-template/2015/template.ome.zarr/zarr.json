@@ -1,0 +1,129 @@
+{
+    "attributes": {
+        "ome": {
+            "version": "0.5",
+            "multiscales": [
+                {
+                    "datasets": [
+                        {
+                            "path": "s0",
+                            "coordinateTransformations": [
+                                {
+                                    "type": "scale",
+                                    "scale": [
+                                        0.01,
+                                        0.01,
+                                        0.01
+                                    ]
+                                },
+                                {
+                                    "type": "translation",
+                                    "translation": [
+                                        0.0,
+                                        0.0,
+                                        0.0
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "path": "s1",
+                            "coordinateTransformations": [
+                                {
+                                    "type": "scale",
+                                    "scale": [
+                                        0.025,
+                                        0.025,
+                                        0.025
+                                    ]
+                                },
+                                {
+                                    "type": "translation",
+                                    "translation": [
+                                        0.0075,
+                                        0.0075,
+                                        0.0075
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "path": "s2",
+                            "coordinateTransformations": [
+                                {
+                                    "type": "scale",
+                                    "scale": [
+                                        0.05,
+                                        0.05,
+                                        0.05
+                                    ]
+                                },
+                                {
+                                    "type": "translation",
+                                    "translation": [
+                                        0.02,
+                                        0.02,
+                                        0.02
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "path": "s3",
+                            "coordinateTransformations": [
+                                {
+                                    "type": "scale",
+                                    "scale": [
+                                        0.1,
+                                        0.1,
+                                        0.1
+                                    ]
+                                },
+                                {
+                                    "type": "translation",
+                                    "translation": [
+                                        0.045,
+                                        0.045,
+                                        0.045
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "/",
+                    "axes": [
+                        {
+                            "name": "z",
+                            "type": "space",
+                            "unit": "millimeter",
+                            "orientation": {
+                                "type": "anatomical",
+                                "value": "anterior-to-posterior"
+                            }
+                        },
+                        {
+                            "name": "y",
+                            "type": "space",
+                            "unit": "millimeter",
+                            "orientation": {
+                                "type": "anatomical",
+                                "value": "superior-to-inferior"
+                            }
+                        },
+                        {
+                            "name": "x",
+                            "type": "space",
+                            "unit": "millimeter",
+                            "orientation": {
+                                "type": "anatomical",
+                                "value": "right-to-left"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "zarr_format": 3,
+    "node_type": "group"
+}

@@ -1,0 +1,6 @@
+identifier,parent_identifier,annotation_value,name,abbreviation,color_hex_triplet,root_identifier_path
+997,,997,root,root,#FFFFFF,[997]
+1,997,1,pouch,po,#FF0000,"[997, 1]"
+2,997,2,hinge,hi,#00FF00,"[997, 2]"
+3,997,3,notum,no,#0000FF,"[997, 3]"
+4,997,4,peripodial layer,pe,#FFFF00,"[997, 4]"
